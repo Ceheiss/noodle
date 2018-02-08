@@ -1,0 +1,66 @@
+body {
+     font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    margin: 100px auto 20px auto;
+    text-align: center;
+    font-size: 80px;
+}
+
+#barra{
+    width: 400px;
+    height: 35px;
+}
+
+form {
+    text-align: center;
+}
+
+.right{
+    float: right;
+    margin-right: 10px;
+}
+
+.left{ margin-left: 5px;}
+
+li{
+    list-style-type: none;
+    display: inline;
+    color: rgb(64,64,64);
+    font-size: 15px;
+}
+
+li:hover{
+     text-decoration: underline;
+}
+
+.button{
+    margin-top: 30px;
+    background-color: rgb(243,243,243);
+    color: rgb(117,117,117);
+    height: 30px;
+    font-weight: 700;
+}
+
+.button:hover {
+    color: black;
+}
+
+p {
+    color: rgb(34,34,34);
+    font-size: 14px;
+}
+
+a{
+   text-decoration: none;
+   color: rgb(117,117,117);
+}
+
+a:hover {
+    color: black;
+}
+
+#doth{color: rgb(53, 0 ,173)}
+
+#doth:hover {text-decoration: underline;}

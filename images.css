@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(rgba(255,0,0,0.5), rgba(0,0,255,0.5)), url(https://i.imgur.com/plCCGFq.png?2);
+	background-size: cover;
+	background-position: center;
+    height:100vh;
+	background-attachment: fixed; /*makes the picture remain static while you scroll */
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
